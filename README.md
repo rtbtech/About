@@ -7,7 +7,7 @@ Our team has 10+ years of experience in building highly loaded massively scalabl
 Unique experience in designing and developing a large advertising platforms from scratch.
 
 
-Our ad server has reached 450 thousand requests per second! This is one of the most heavily loaded ad servers in Russia!
+Our ad server has reached 450 thousand requests per second! This is one of the most heavily loaded ad server!
 
 <img src="https://user-images.githubusercontent.com/669633/156897695-879b4238-cf44-4401-8886-d34e1192ad10.jpeg" alt="Ad server performance" width="400"/>
 
